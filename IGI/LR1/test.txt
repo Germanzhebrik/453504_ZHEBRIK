@@ -1,3 +1,2 @@
-000 
-Hello 
-new changes at test.txt 
+german 123456
+manager 123456
